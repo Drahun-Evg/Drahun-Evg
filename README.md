@@ -5,7 +5,7 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/eugene-drahun-aab1841b9/">
+  <a href="https://www.linkedin.com/in/evgen-drahun/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/hi_hi_jey/">
